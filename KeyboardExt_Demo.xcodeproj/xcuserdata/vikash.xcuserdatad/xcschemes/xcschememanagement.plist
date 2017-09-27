@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>VikashDemoKeys.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>135BF6431F726E7300EEABDB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>135BF65C1F72708500EEABDB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
